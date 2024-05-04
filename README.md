@@ -15,10 +15,6 @@ VIZ-My-Own-Data crafted to empower individuals, irrespective of their technical 
 
 <img src="https://raw.githubusercontent.com/getredash/website/8e820cd02c73a8ddf4f946a9d293c54fd3fb08b9/website/_assets/images/redash-anim.gif" width="80%"/>
 
-## Getting Started
-
-* [Setting up Redash instance](https://redash.io/help/open-source/setup) (includes links to ready-made AWS/GCE images).
-* [Documentation](https://redash.io/help/).
 
 ## Supported Data Sources
 Below is a list of built-in sources:
