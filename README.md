@@ -1,6 +1,6 @@
 
 
-VIZ-My-Own-Data crafted to empower individuals, irrespective of their technical expertise, to tap into the potential of both large and small datasets. Utilizing Redash, SQL practitioners can effortlessly delve into, interrogate, visualize, and disseminate data from various sources. Their efforts facilitate accessibility to data across their organization. Each day, countless users across numerous organizations globally rely  to uncover insights and steer their decisions with data.
+VIZ-My-Own-Data crafted to empower individuals, irrespective of their technical expertise, to tap into the potential of both large and small datasets. SQL users  can effortlessly delve visualize and disseminate data from various sources. Their efforts facilitate accessibility to data across their organization. Each day, countless users across numerous organizations globally rely to uncover insights and steer their decisions with data. Hoping to make the task a bit easier.
 
 
 1. **Web-Based Experience**: Access everything directly through your web browser, with the convenience of shareable URLs.
