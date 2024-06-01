@@ -13,7 +13,7 @@ VIZ-My-Own-Data crafted to empower individuals, irrespective of their technical 
 8. **RESTful API Access**: Access all functionalities available in the user interface through the REST API.
 9. **Wide Range of Data Source Support**: Enjoy extensive data source compatibility through an adaptable API, with built-in support for numerous common databases and platforms.
 
-<img src="https://raw.githubusercontent.com/getredash/website/8e820cd02c73a8ddf4f946a9d293c54fd3fb08b9/website/_assets/images/redash-anim.gif" width="80%"/>
+<img src="D:\resume projects\SEM-8-internship\redash-anim-ezgif.com-crop.gif" width="80%"/>
 
 
 ## Supported Data Sources
